@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Mariusz</h1>
-<h3 align="center">I am a beginner developer who is passionate about web app development, mostly backend.The main technologies that I am working in are Python and Flask<!--, Django-->. In the future, I would like to become a professional developer.</h3>
+<h4 align="center">I am a beginner developer who is passionate about web app development, mostly backend.The main technologies that I am working in are Python and Flask<!--, Django-->. In the future, I would like to become a professional developer.</h4>
 
 - 🔭 I’m currently working on [Flask web application - Your Home Budget](https://github.com/marsiekiera/YHB)
 
