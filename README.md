@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on web application in Flask (YHB).
 - 🌱 I’m currently learning Python, Flask.
-- 🤔 I’m looking for a job as an Intern/Junior python developer
+- 🔎 I’m looking for a job as an Intern/Junior python developer
 
 <!--
 **marsiekiera/marsiekiera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
