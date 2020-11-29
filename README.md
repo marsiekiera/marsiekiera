@@ -3,9 +3,11 @@
 
 - 🔭 I’m currently working on [Flask web application - Your Home Budget](https://github.com/marsiekiera/YHB)
 
-- 🌱 I’m currently learning **Python, Flask<!--, Django-->**   
+- 🌱 I’m currently learning **Python, Flask<!--, Django-->**
 
-- 📫 How to reach me **marsiekiera@gmail.com**
+- 🔎 I’m looking for a job as an Intern/Junior python developer
+
+- 📫 If you want to contact me just drop me an email: **marsiekiera@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
